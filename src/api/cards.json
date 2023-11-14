@@ -1,0 +1,22 @@
+
+[
+    {
+     "id": 1,
+     "image": "https://img.imgyukle.com/2023/11/14/yCMKyt.png",
+     "title": "Araştırma",
+     "description": "Hidrolojik, Topoğrafik ve Çevresel etütler"
+    },
+    {
+     "id": 2,
+     "image": "https://img.imgyukle.com/2023/11/14/yCM2tR.png",
+     "title": "Tasarım",
+     "description": "Fizibilite, Kesin ve Konsept(Avan) projeleri"
+    },
+    {
+     "id": 3,
+     "image": "https://img.imgyukle.com/2023/11/14/yCM3UP.png",
+     "title": "Proje Yönetimi",
+     "description": "İhale işleri ve Teknik değerlendirme"
+    }
+    
+ ]
