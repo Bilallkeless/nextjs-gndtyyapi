@@ -7,6 +7,7 @@ Next.js + React.js + Talwind kullanarak Responsive, kullanıcı dostu ve etkiley
 Görsel unsurlar ekleyerek tasarımı zenginleştirdim.
 Animasyonlar veya geçiş efektleri ekleyerek kullanıcı deneyimini iyileştirdim.
 Animasyon için Framer Motion eklentisini kullandım.
+Logo ve Slider tasarımını kendim Adobe Photoshop ile hazırladım.
 
 
 ### Proje Kurulumu Ve Çalıştırılması
