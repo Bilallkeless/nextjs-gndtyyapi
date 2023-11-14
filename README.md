@@ -9,7 +9,7 @@ Animasyonlar veya geçiş efektleri ekleyerek kullanıcı deneyimini iyileştird
 Animasyon için Framer Motion eklentisini kullandım.
 
 
-### Bu adresten uygulamayı canlı olarak inceleyebilirsiniz.
+### Proje Kurulumu ve Çalıştırılması
 Github'ta bulunan yeşil code butonuna tıklayıp Download ZIP'e basarak projeyi indirebilirsiniz.
 İndirdikten sonra dosyayı ZIP'ten çıkarıp Visual Studio Code ile birlikte açın.
 Terminal ekranını açın, npm install diyerek npm'i kurduktan sonra, npm run dev diyerek projeyi başlatabilirsiniz.
