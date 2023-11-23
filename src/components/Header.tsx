@@ -73,7 +73,7 @@ export default function Header() {
 
         
         
-        <a className="lg:hidden flex items-center gap-x-2 text-primary-brand-color transition-all text-opacity-80 hover:text-opacity-100 ml-2"
+        <a className="lg:hidden flex items-center gap-x-2 text-primary-brand-color transition-all text-opacity-80 hover:text-opacity-100 ml-2 sticky-color"
         onClick={()=> {
           setMenuOpen(!menuOpen)
         }}>
