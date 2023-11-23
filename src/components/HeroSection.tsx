@@ -27,18 +27,18 @@ export default function HeroSection() {
   return (
     <motion.div
      initial={{opacity:0, translateY:30}} animate={{opacity:1, translateY:0}} transition={{duration: 1}}
-      className="w-full relative h-[180px] md:h-[300px] lg:h-[550px] ">
+      className="w-full relative h-[200px] md:h-[300px] lg:h-[550px] ">
        <Slider {...settings}>
         <div>
           <Image
-            className="w-full h-[180px] md:h-[300px] lg:h-[550px] object-left  object-cover"
+            className="w-full h-[200px] md:h-[300px] lg:h-[550px] object-left  object-cover"
             src={slider1}
             alt="Gültepe Barajı"
           />  
         </div>
         <div>
         <Image
-            className="w-full h-[180px] md:h-[300px] lg:h-[550px] object-left object-cover"
+            className="w-full h-[200px] md:h-[300px] lg:h-[550px] object-left object-cover"
             src={slider2}
             alt="Bilal Keles Havalimanı"
           />

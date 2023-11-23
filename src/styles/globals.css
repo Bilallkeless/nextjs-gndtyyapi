@@ -12,3 +12,53 @@
         @apply antialiased;
     }
 }
+
+.sticky {
+    box-shadow: 0px 2px 10px rgba(0,0,0,0.6);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background-color: rgba(0, 0, 0, .7);
+    transition: .3s;
+    
+    
+
+}
+
+.sticky .sticky-color{
+    color: #ffffff;
+    
+
+}
+
+.transition {
+    transition: 3s;
+}
+
+.menu {
+    display: flex;
+    position: absolute;
+    top: 0.75rem;
+    right: 0.5rem;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 2.25rem;
+    height: 2rem;
+}
+
+.menu span {
+    height: 0.4rem;
+    width: 100%;
+    background-color:red;
+    border-radius: 0.2rem;
+}
+
+menu {
+    display:none;
+}
+
+
+.open {
+    display:flex;
+}
+
